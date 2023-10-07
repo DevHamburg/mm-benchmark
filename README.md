@@ -16,8 +16,8 @@ python py.py
 
 # Java
 
-javac mp.java
-java mp.java
+javac .\MP.java
+java MP
 
 # C
 
